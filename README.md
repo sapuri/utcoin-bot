@@ -38,7 +38,7 @@ yarn # or npm install
 ### 6. Add artifacts
 ```
 mkdir artifacts
-cp ../utcoin/build/contracts/UTCoin.json artifacts
+cp ../UTCoin/build/contracts/UTCoin.json artifacts
 ```
 
 ### 7. Create config.js
@@ -70,7 +70,7 @@ token=[slackbot token] node bot.js
 
 Bot が招待されたチャンネルで reaction が発生すると、reaction されたユーザーに一定の UTCoin が送金されます。
 
-チップ量を変更するには、`bot.js` の `tip_amount` の値を変更してください。 (default = 10)
+チップ量を変更するには、`bot.js` の `tip_amount` の値を変更してください。 (default = 10)
 
 ### Commands
 The commands are activated by direct message or direct mention.
