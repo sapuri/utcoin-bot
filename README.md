@@ -1,4 +1,4 @@
-# Slackbot
+# utcoin-bot
 Slack plugin for tipping each other with UTCoin
 
 Inspired by [OKIMOCHI](https://github.com/campfire-inc/OKIMOCHI) (&copy; CAMPFIRE and Joe Miyamoto).
