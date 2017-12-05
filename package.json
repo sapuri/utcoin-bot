@@ -1,0 +1,14 @@
+{
+  "name": "utcoin-bot",
+  "version": "1.0.0",
+  "description": "Slack plugin for tipping each other with UTCoin",
+  "main": "bot.js",
+  "repository": "https://github.com/m1nam1/utcoin-bot",
+  "author": "m1nam1 <info@minami.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.6.7",
+    "truffle-contract": "^3.0.1",
+    "web3": "^0.19.1"
+  }
+}
